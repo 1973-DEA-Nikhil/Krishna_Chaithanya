@@ -1,1 +1,1 @@
-# Krishna_Chaithanya
+# Python And Sql Practice 
